@@ -30,8 +30,7 @@ Basic knowledge of HTML, CSS, JavaScript.
 </body>
 ````
 
-##Experience
-.
+## Experience
 
 ## Education
 
