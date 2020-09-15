@@ -1,4 +1,4 @@
-# Dzmitry Tivanenka
+# Dzmitry Tivonenko
 
 ## Contacts
 
