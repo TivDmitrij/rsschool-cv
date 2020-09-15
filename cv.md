@@ -29,8 +29,9 @@ Basic knowledge of HTML, CSS, JavaScript.
     Любопытно, что будет, если все-таки выбрать?
 </body>
 ````
-##Experience
 
+##Experience
+.
 
 ## Education
 
